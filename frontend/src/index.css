@@ -206,7 +206,6 @@ img.large {
 }
 .form label{
   max-resolution: 1rem 0;
-  display: block;
 }
 
 /* Dropdown */
@@ -244,3 +243,4 @@ img.large {
   border-top-color: #f08000;
   color: #f08000;
 }
+
